@@ -7,7 +7,7 @@
 #
 #
 
-sudo su
+#Se debe cambiar primero a superusuario.
 
 sudo apt-get update
 sudo apt-get upgrade
