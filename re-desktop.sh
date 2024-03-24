@@ -9,7 +9,6 @@
 
 
 # Cambio al superusuario
-sudo su
 
 # Se actualizan los archivos del sistema
 sudo apt-get update && sudo apt-get upgrade
