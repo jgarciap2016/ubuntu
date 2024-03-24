@@ -8,7 +8,6 @@
 #
 
 # Me cambio al superusuario
-sudo su
 
 
 # Se actualizan los archivos del sistema
