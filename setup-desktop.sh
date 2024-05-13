@@ -18,7 +18,12 @@ sudo apt-get install xorg
 sudo apt-get install openbox 
 sudo apt-get install obconf 
 sudo apt-get install obmenu 
-sudo apt-get install tint2 
+sudo apt-get install tint2
+sudo apt-get install oblogout
+sudo apt-get install obkey
+sudo apt-get install compton
+sudo apt-get install network-manager-applet
+sudo apt-get install lxappearence 
 sudo apt-get install nitrogen
 sudo apt-get install conky
 sudo apt-get install xcompmgr
@@ -37,16 +42,9 @@ sudo apt-get install freeglut3-dev
 sudo apt-get install binutils-gold
 
 # Se configura el openbox
-cd .config
-mkdir openbox
-cd openbox
-
-curl -O https://raw.githubusercontent.com/jgarciap2016/ubuntu/main/autostart.sh
-
-cd ..
-cd ..
 
 sudo apt-get install xinit
+
 
 
 #Termina la ejecución de los comandos de la configuración
